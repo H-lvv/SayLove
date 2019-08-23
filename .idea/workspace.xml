@@ -13,8 +13,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="27" column="31" lean-forward="true" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+            <state relative-caret-position="92">
+              <caret line="58" column="4" selection-start-line="58" selection-start-column="4" selection-end-line="58" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -22,7 +22,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/js/love.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4761">
+            <state relative-caret-position="8004">
               <caret line="348" column="26" selection-start-line="348" selection-start-column="20" selection-end-line="348" selection-end-column="26" />
             </state>
           </provider>
@@ -31,7 +31,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/js/functions.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="989">
+            <state relative-caret-position="943">
               <caret line="43" column="43" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="43" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -76,7 +76,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -93,13 +92,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566526787765" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566528546872" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../FlexoCalendar.js-master" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -222,17 +222,18 @@
       <workItem from="1565337518740" duration="803000" />
       <workItem from="1565570813462" duration="99000" />
       <workItem from="1566521529980" duration="4043000" />
+      <workItem from="1566528237122" duration="307000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15960000" />
+    <option name="totallyTimeSpent" value="16267000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26354083" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26758286" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -273,27 +274,27 @@
         <state relative-caret-position="-7125" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/functions.js">
+    <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="989">
-          <caret line="43" column="43" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="43" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="92">
+          <caret line="58" column="4" selection-start-line="58" selection-start-column="4" selection-end-line="58" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/js/love.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4761">
+        <state relative-caret-position="8004">
           <caret line="348" column="26" selection-start-line="348" selection-start-column="20" selection-end-line="348" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.html">
+    <entry file="file://$PROJECT_DIR$/src/js/functions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="27" column="31" lean-forward="true" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+        <state relative-caret-position="943">
+          <caret line="43" column="43" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="43" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
